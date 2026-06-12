@@ -9,9 +9,14 @@ namespace Ceduc.Simulators.Shared
             Debug.Log(message);
         }
 
-        public static void LogWarning(string message) 
+        public static void LogWarning(string message)
         {
-            Debug.Log(message); 
+            Debug.LogWarning(message);
+        }
+
+        public static void LogError(string message) 
+        { 
+            Debug.LogError(message); 
         }
 
     }
