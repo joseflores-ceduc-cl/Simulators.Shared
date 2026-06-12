@@ -1,6 +1,6 @@
 {
   "name": "com.ceduc.simulators.shared",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Ceduc Simulators Shared",
   "description": "Utilidades compartidas para simuladores de Ceduc UCN",
   "unity": "6000.0",
