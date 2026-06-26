@@ -1,9 +1,10 @@
 {
-    "name": "Simulators.Shared",
+    "name": "Simulators.Shared.Rewired",
     "rootNamespace": "",
     "references": [
         "GUID:6055be8ebefd69e48b49212b09b47b2f",
-        "GUID:75469ad4d38634e559750d17036d5f7c"
+        "GUID:4b1b99d866322aa40b9989e20c925922",
+        "GUID:9fa0f6997f1bb324eb4443e321c54ec6"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
