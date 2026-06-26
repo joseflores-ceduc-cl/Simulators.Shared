@@ -327,13 +327,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 6533908819494389763}
-        m_TargetAssemblyTypeName: 
+        m_TargetAssemblyTypeName: Rewired.UI.ControlMapper.ControlMapper, Rewired
         m_MethodName: OnButtonActivated
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 3535260140651980401}
           m_ObjectArgumentAssemblyTypeName: Rewired.UI.ControlMapper.ButtonInfo,
-            Assembly-CSharp
+            Rewired
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -3698,13 +3698,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 6533908819494389763}
-        m_TargetAssemblyTypeName: 
+        m_TargetAssemblyTypeName: Rewired.UI.ControlMapper.ControlMapper, Rewired
         m_MethodName: OnButtonActivated
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 313485551570766462}
           m_ObjectArgumentAssemblyTypeName: Rewired.UI.ControlMapper.ButtonInfo,
-            Assembly-CSharp
+            Rewired
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -4117,13 +4117,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 6533908819494389763}
-        m_TargetAssemblyTypeName: 
+        m_TargetAssemblyTypeName: Rewired.UI.ControlMapper.ControlMapper, Rewired
         m_MethodName: OnButtonActivated
         m_Mode: 2
         m_Arguments:
           m_ObjectArgument: {fileID: 7476141622607670971}
           m_ObjectArgumentAssemblyTypeName: Rewired.UI.ControlMapper.ButtonInfo,
-            Assembly-CSharp
+            Rewired
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
