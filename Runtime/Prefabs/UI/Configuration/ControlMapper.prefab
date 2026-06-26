@@ -4778,7 +4778,7 @@ MonoBehaviour:
   _themeSettings: {fileID: 11400000, guid: e15b0a66770d13f41a9adbbf6a4d7423, type: 2}
   _language: {fileID: 11400000, guid: 48d93cf0cb307044595bbf35fcfd7d7e, type: 2}
   prefabs:
-    _button: {fileID: 143110, guid: f71e844abdb0e87458f73bf1ce75ee09, type: 3}
+    _button: {fileID: 143110, guid: a3f17ab5045b59549b2fbff5a4ce78ba, type: 3}
     _fitButton: {fileID: 143110, guid: 758f91be5975d8842a43a078fec194f4, type: 3}
     _inputGridLabel: {fileID: 190600, guid: 1814d9153fc43ff478f555945e287f39, type: 3}
     _inputGridHeaderLabel: {fileID: 190600, guid: da3d4a59e237f72498b31e02d8f9f733, type: 3}
