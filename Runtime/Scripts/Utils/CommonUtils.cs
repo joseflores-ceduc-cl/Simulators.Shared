@@ -346,6 +346,20 @@ namespace Ceduc.SWMiningTruck
             }
         }
 
+        public static void SwapUI(GameObject toActivate, GameObject toDeactivate)
+        {
+            if (toActivate != null && !toActivate.activeSelf)
+            {
+                toActivate.SetActive(true);
+            }
+
+            if (toDeactivate != null && toDeactivate.activeSelf)
+            {
+                toDeactivate.SetActive(false);
+            }
+        }
+
+
 
 
     }
