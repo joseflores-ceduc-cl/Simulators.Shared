@@ -1,0 +1,18 @@
+{
+    "name": "Simulators.Shared.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9fa0f6997f1bb324eb4443e321c54ec6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
