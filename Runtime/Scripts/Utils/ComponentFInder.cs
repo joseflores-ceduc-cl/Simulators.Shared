@@ -59,4 +59,24 @@ public static class ComponentFinder
             .OfType<T>()
             .ToList();
     }
+
+    public static GameObject FindFirstGameObjectWithInterfaceOnTag<T>(string tag = "Player") where T : class
+    {
+        // Obtener primero todos los GameObjects con el tag indicado
+        var candidates = GameObject.FindGameObjectsWithTag(tag);
+
+        // Y ahora recorremos esos GameObjects para ver si alguno tiene un componente que implemente la interfaz T.
+        for (int i = 0; i < candidates.Length; i++)
+        {
+            var go = candidates[i];
+            var theComponent = go.GetComponent<T>();
+            if (theComponent != null)
+            {
+                return go;
+            }
+        }
+
+        return null;
+    }
+
 }
